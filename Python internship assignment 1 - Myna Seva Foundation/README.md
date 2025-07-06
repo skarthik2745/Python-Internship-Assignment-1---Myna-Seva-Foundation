@@ -1,10 +1,10 @@
 # Python Internship Assignment 1 – Myna Seva Foundation
 
-Welcome to my internship project repository! This project contains _20 beginner-level Python programs_ developed as part of my Python internship under the _Myna Seva Foundation_
+Welcome to my internship assignment-1 repository! This project contains _20 beginner-level Python programs_ developed as part of my Python internship under the _Myna Seva Foundation_
 
 ---
 
-## 📁 Project Structure
+## 📁 Assignment-1  Structure
 
 ### 🔢 1. Python Operators
 
